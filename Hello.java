@@ -11,7 +11,6 @@ public class Hello {
 
         
         System.out.println(myname);
-        System.out.println(myage);
     }
 }
 
